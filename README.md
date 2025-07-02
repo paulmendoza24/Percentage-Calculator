@@ -24,10 +24,11 @@ A simple Percentage Calculator application by falcon built using Python and Tkin
 1. Clone or download this repository:
 
        https://github.com/paulmendoza24/Percentage-Calculator.git
-2. Ensure you have Python installed (3.x recommended). You can check your Python version with:
+       cd Percentage-Calculator
+3. Ensure you have Python installed (3.x recommended). You can check your Python version with:
 
        python --version
-3. Run the application by executing the following command in the terminal:
+4. Run the application by executing the following command in the terminal:
 
        python main.py
 ## Screenshots
